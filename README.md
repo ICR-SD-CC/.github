@@ -10,6 +10,6 @@ This site is published with mkdocs to this location: [icr-sd-cc.github.io](https
 
 ---  
 
-[alt text](image_url)
+[SD&CC]([image_url](https://github.com/ICR-SD-CC/ICR-SD-CC.github.io/blob/main/docs/assets/icr_sd%26cc.jpg)https://github.com/ICR-SD-CC/ICR-SD-CC.github.io/blob/main/docs/assets/icr_sd%26cc.jpg)
 
 
